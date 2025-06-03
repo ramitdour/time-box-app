@@ -25,7 +25,7 @@ All data, including tasks, priorities, API keys, and settings, is stored locally
 | *Planner on a smaller screen*       | *Focus on schedule and priorities* |
 
 
-*(Consider adding a GIF here showing key interactions, e.g., `![App Demo GIF](images/app-demo.gif)`)*
+
 
 ---
 
