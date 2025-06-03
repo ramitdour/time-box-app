@@ -1,0 +1,2 @@
+// This file is no longer actively used as the consent banner script is directly embedded in index.html.
+// Its content has been cleared to resolve previous "Script error." issues related to its invalid content.
