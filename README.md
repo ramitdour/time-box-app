@@ -7,13 +7,12 @@ All data, including tasks, priorities, API keys, and settings, is stored locally
 
 ---
 
-**➡️ Live Demo:** [Link to your deployed application (e.g., GitHub Pages, Netlify)](YOUR_LIVE_DEMO_LINK_HERE)
+**➡️ Live Demo:**  Comming Soon ! (Please , Run Locally to use it.)
 
 ---
 
 ## Screenshots
 
-*(Add your screenshots to an `images` folder in your project repository and update the paths below)*
 
 | Main Interface                      | AI Magic & Settings                |
 | :----------------------------------: | :--------------------------------: |
@@ -32,7 +31,7 @@ All data, including tasks, priorities, API keys, and settings, is stored locally
 
 ## Project Goals & Motivation
 
-*(Briefly describe why you built this project. For example:)*
+
 *   To develop a practical application for personal productivity, exploring the Time Boxing technique.
 *   To gain hands-on experience with React, TypeScript, Tailwind CSS, and modern frontend practices.
 *   To integrate third-party APIs (Google Gemini and OpenAI) for AI-powered features.
@@ -87,7 +86,7 @@ All data, including tasks, priorities, API keys, and settings, is stored locally
 
 ## Key Learnings & Challenges
 
-*(Describe any significant challenges you faced and what you learned. For example:)*
+
 *   **State Management with Context API:** Efficiently managing and propagating state for themes, settings, and application data across components.
 *   **Dynamic UI Updates:** Ensuring components like the schedule and task lists re-render correctly based on user interactions and settings changes (e.g., time format, schedule range).
 *   **Third-Party API Integration:** Handling asynchronous API calls for AI features, managing API keys securely on the client-side (local storage), and providing user feedback during processing.
@@ -112,8 +111,8 @@ This project is set up to run directly in the browser without a complex build pr
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/time-box-planner.git # Replace with your actual repository URL
-    cd time-box-planner
+    git clone https://github.com/ramitdour/time-box-app.git 
+    cd time-box-app
     ```
 
 2.  **Serve the Application:**
@@ -160,7 +159,6 @@ To use the "AI Magic" feature, you need to provide API keys for Google Gemini an
 
 ## Future Enhancements
 
-*(List a few ideas for future development. This shows you can think ahead.)*
 *   **Data Persistence per Date:** Implement a more robust way to save and load plans for different dates (e.g., using IndexedDB for more structured local storage or a backend service).
 *   **Cloud Sync:** Option to sync data across devices using a backend service (e.g., Firebase).
 *   **Task Reminders/Notifications:** Integrate browser notifications for upcoming time-boxed activities.
@@ -191,4 +189,4 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE.md). (You would need to add a `LICENSE.md` file with the MIT License text if you intend to formally license it).
+This project is open-source and available under the [MIT License](LICENSE.md). 
